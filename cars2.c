@@ -88,12 +88,12 @@ int north_car_flag = 0,
     south_car_flag = 0,
     west_car_flag = 0,
     east_car_flag = 0,
-    /*这4个为该方向是否有汽车全部走完的标志*/
+    /*这4个为该方向汽车是否全部走完的标志*/
     north_empty_flag = 0,
     south_empty_flag = 0,
     west_empty_flag = 0,
     east_empty_flag = 0,
-    /*这4个为该方向是否有汽车是否可以通行的标志*/
+    /*这4个为该方向汽车是否可以通行的标志*/
     north_go = 0,
     south_go = 0,
     west_go = 0,
